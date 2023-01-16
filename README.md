@@ -1,4 +1,4 @@
-# SQL_MOVIES_PROJCECT
+# SQL_MOVIES_PROJECT
 
 #Consider the schema for Movie Database:
 
