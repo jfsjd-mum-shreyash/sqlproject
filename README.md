@@ -14,11 +14,11 @@
 
 Write SQL queries to
 
-1. List the titles of all movies directed by „shreyash‟.
+1. List the titles of all movies directed by shreyash.
 2. Find the movie names where one or more actors acted in two or more movies.
 3. List all actors who acted in a movie before 2000 a nd also in a movie after 2015
    (use JOIN operation).
 4. Find the title of movies and nur of stars for each movie that has at least one
    rating and find the highest number of stars that movie received. Sort the result by
    movie title.
-5. Update rating of all movies directed by „shreyash‟ to 10.
+5. Update rating of all movies directed by shreyash to 10.
